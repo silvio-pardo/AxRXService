@@ -1,3 +1,3 @@
-export { default as IAxRxParams } from './IAxRxParams';
-export { default as IAxRxService } from './IAxRxService';
-export { default as IHttpAxRxRequest } from './IHttpAxRxRequest';
+export type { default as IAxRxParams } from './IAxRxParams';
+export type { default as IAxRxService } from './IAxRxService';
+export type { default as IHttpAxRxRequest } from './IHttpAxRxRequest';
